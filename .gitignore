@@ -11,6 +11,8 @@
 migrate_working_dir/
 *.lock
 .metadata
+analysis_options.yaml
+pubspec.lock
 
 # IntelliJ related
 *.iml
