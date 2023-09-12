@@ -1,6 +1,7 @@
 # clima_project
 
 A new Flutter project.
+Get the weather at your current location or desired city!!
 
 ## Getting Started
 
